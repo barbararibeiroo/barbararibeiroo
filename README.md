@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou bacharel em Sistemas de informação e pós graduada em Desenvolvimento com Sistemas em Java, atualmente sou atualmente sou Desenvolvedora de software, sou apaixonada por tecnologia com habilidades em Java, HTML, CSS e React js. 
+    Sou bacharel em Sistemas de informação, pós graduada em Desenvolvimento com Sistemas em Java, atualmente sou atualmente sou Desenvolvedora de software, sou apaixonada por tecnologia com habilidades em Java, HTML, CSS e React js. 
    
   </p>
   
