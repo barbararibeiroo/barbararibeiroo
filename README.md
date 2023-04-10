@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou desenvolvedora back-end apaixonada por tecnologia com habilidades em Java, HTML, CSS, JavaScript, React.js, MYSQL e metodologias ágeis como Scrum e Kanban. 
+    Sou bacharel em Sistemas de informação e pós graduada em Desenvolvimento com Sistemas em Java, atualmente sou desenvolvedora back-end Java, sou apaixonada por tecnologia com habilidades em Java e atualmente estou estudando react js. 
    
   </p>
   
